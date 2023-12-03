@@ -1,0 +1,9 @@
+.matrix{
+    display: flex;
+    border: 2px black solid;
+    width: 200px;
+}
+.scalar{
+    border: 0px;
+    width: 10px;
+}
